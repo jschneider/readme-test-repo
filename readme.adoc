@@ -1,1 +1,8 @@
 == Adoc Readme file!
+
+
+Include something:
+
+include::toinclude.adoc[]
+
+Below include!
